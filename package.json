@@ -1,0 +1,25 @@
+{
+  "name": "watchable",
+  "version": "0.0.1",
+  "description": "Small and simple mixin to make any given JS class observable.",
+  "main": "watchable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willsmart/node-watchable.git"
+  },
+  "keywords": [
+    "node",
+    "observer",
+    "pattern",
+    "nobo"
+  ],
+  "author": "WillSmart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willsmart/node-watchable/issues"
+  },
+  "homepage": "https://github.com/willsmart/node-watchable#readme"
+}
